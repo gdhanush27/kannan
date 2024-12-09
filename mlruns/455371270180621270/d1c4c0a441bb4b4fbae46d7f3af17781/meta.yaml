@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/d1c4c0a441bb4b4fbae46d7f3af17781/artifacts
+end_time: 1733718338255
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: d1c4c0a441bb4b4fbae46d7f3af17781
+run_name: masked-hare-213
+run_uuid: d1c4c0a441bb4b4fbae46d7f3af17781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733718338159
+status: 4
+tags: []
+user_id: dhanush

@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/fe0c6fb53b09458398d0cd5ccd9a7647/artifacts
+end_time: 1733718145896
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: fe0c6fb53b09458398d0cd5ccd9a7647
+run_name: awesome-lamb-831
+run_uuid: fe0c6fb53b09458398d0cd5ccd9a7647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733718145805
+status: 4
+tags: []
+user_id: dhanush

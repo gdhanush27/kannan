@@ -1,0 +1,1 @@
+[('logistic', LogisticRegression(max_iter=200)), ('svc', SVC(probability=True)), ('decision_tree', DecisionTreeClassifier()), ('random_forest', RandomForestClassifier())]

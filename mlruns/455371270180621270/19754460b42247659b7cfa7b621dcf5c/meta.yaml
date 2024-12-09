@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/19754460b42247659b7cfa7b621dcf5c/artifacts
+end_time: 1733717886943
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: 19754460b42247659b7cfa7b621dcf5c
+run_name: masked-turtle-756
+run_uuid: 19754460b42247659b7cfa7b621dcf5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733717855321
+status: 3
+tags: []
+user_id: dhanush

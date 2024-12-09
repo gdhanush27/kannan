@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/4d1a71289c33473ea23a1de9358caa4b/artifacts
+end_time: 1733719762404
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: 4d1a71289c33473ea23a1de9358caa4b
+run_name: luxuriant-turtle-87
+run_uuid: 4d1a71289c33473ea23a1de9358caa4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733719762312
+status: 4
+tags: []
+user_id: dhanush

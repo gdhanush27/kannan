@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/611994c0996c4e9ca38dc6352c4a3f4f/artifacts
+end_time: 1733717701899
+entry_point_name: ''
+experiment_id: '418517217416625045'
+lifecycle_stage: active
+run_id: 611994c0996c4e9ca38dc6352c4a3f4f
+run_name: serious-foal-509
+run_uuid: 611994c0996c4e9ca38dc6352c4a3f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733717649230
+status: 3
+tags: []
+user_id: dhanush

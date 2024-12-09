@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/d7ccd2bdfb6744c7bd39cb7f81505b40/artifacts
+end_time: 1733719792707
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: d7ccd2bdfb6744c7bd39cb7f81505b40
+run_name: zealous-sheep-593
+run_uuid: d7ccd2bdfb6744c7bd39cb7f81505b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733719792617
+status: 4
+tags: []
+user_id: dhanush

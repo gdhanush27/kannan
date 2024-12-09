@@ -1,0 +1,15 @@
+artifact_uri: /home/dhanush/Documents/kannan/mlflow-classification-recipe-learning/metadata/mlflow/mlartifacts/89c6098417234e4a95ce175999eff875/artifacts
+end_time: 1733718079644
+entry_point_name: ''
+experiment_id: '455371270180621270'
+lifecycle_stage: active
+run_id: 89c6098417234e4a95ce175999eff875
+run_name: resilient-stoat-222
+run_uuid: 89c6098417234e4a95ce175999eff875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733718079558
+status: 4
+tags: []
+user_id: dhanush
